@@ -9,8 +9,8 @@ It will ask for your phone number that will validate no letters used. Gives you 
 
 There is icon of pizza and the OPEN icon blinks.
 
-![Start](http://url/to/img.png)
+![Start](https://github.com/shaolin-diamonds/GUIpizza/blob/57d656ff0e7389d63855cccbe03b29322fa5ac1b/ScnShot01.png)
 
-![Selection](http://url/to/img.png)
+![Selection](https://github.com/shaolin-diamonds/GUIpizza/blob/57d656ff0e7389d63855cccbe03b29322fa5ac1b/ScnShot02.png)
 
-![Delivery](http://url/to/img.png)
+![Delivery](https://github.com/shaolin-diamonds/GUIpizza/blob/57d656ff0e7389d63855cccbe03b29322fa5ac1b/ScnShot03.png)
